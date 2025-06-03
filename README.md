@@ -5,7 +5,7 @@
 ## 🙋‍♂️ 참여 인원
 | [박강현](https://github.com/Dev-PKH) | [지용주](https://github.com/dksldhodkseho) | [최이승우](https://github.com/nvmith) |
 
----
+
 
 ## 🎮 프로젝트 소개
 **Get High**은 Unity 기반의 **느와르(Noir) 분위기와 로그라이크 요소가 결합된 2D 탑다운 슈팅 게임**입니다.  
