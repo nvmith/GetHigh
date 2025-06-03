@@ -145,12 +145,11 @@ public class ShotGun : Gun {
 ---
 
 ## 📷 실행 화면
-- 📌 메인 메뉴  
-- ⚙️ 설정 메뉴 (사운드, 언어)  
-- 💉 능력치 탭 UI  
-- 🔫 전투 인게임 화면  
-- 🧟‍♂️ 방 클리어 & 문 열림 시점  
-- ☠️ 게임 오버 시 결과 창
+| | |
+|---|---|
+| **📌 메인 메뉴**  <br> ![Image](https://github.com/user-attachments/assets/83c088ad-6da8-4201-a41f-270ce07195fa) | **⚙️ 설정 메뉴**  <br> ![Image](https://github.com/user-attachments/assets/b4f11a22-6c0d-49a6-840f-fe34199fde8f) |
+| **📕 다이어리 UI**  <br> ![Image](https://github.com/user-attachments/assets/40426e0a-aa0e-408e-87d2-608bed8d94fb) | **🔫 전투 인게임 화면**  <br> ![Image](https://github.com/user-attachments/assets/c6938e9c-aca3-47c2-b108-49f174aad896) |
+| **🧟‍♂️ NPC 상호작용**  <br> ![Image](https://github.com/user-attachments/assets/02054d3e-10ae-49f0-85d2-01ae96c7942d) | **☠️ 게임 오버 화면**  <br> ![Image](https://github.com/user-attachments/assets/d596ab1a-68e6-4577-b145-d277ffff632b) |
 
 ## 🚀 실행 방법
 
