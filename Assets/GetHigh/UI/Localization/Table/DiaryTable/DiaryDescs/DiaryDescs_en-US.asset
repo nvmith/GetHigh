@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DiaryDescs_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 25de901211e5a36468058e278d02ff33, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 374070243328
+    m_Localized: Need more information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713590763520
+    m_Localized: "Increse attack damage\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763351986176
+    m_Localized: Increase attack accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 784394809344
+    m_Localized: Increase attack range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791504154624
+    m_Localized: Increase moving speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 825494794240
+    m_Localized: Increase bullet speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 838081900544
+    m_Localized: Indistinguishable drug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028700434432
+    m_Localized: Recover health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1058966532096
+    m_Localized: Open locked weapon boxes and doors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1072589631488
+    m_Localized: Protect from enemy's attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080609140736
+    m_Localized: A powerful bomb effective against multiple enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089232629760
+    m_Localized: Currency used in store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114293596160
+    m_Localized: "Magazine containing bullet of main weapon \r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1125936984064
+    m_Localized: Magazine containg bullet of sub weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457521881088
+    m_Localized: Knife that left by Haesung's savior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490203897856
+    m_Localized: Military weapon that Eunha's favorite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1502417711104
+    m_Localized: Kuiper's fist. Punch with high speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1564426301440
+    m_Localized: "Single pistol with a high rate of fire\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1587071348736
+    m_Localized: "Single pistol with a high bullet speed\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1614149775360
+    m_Localized: "High rate of fire assault rifle\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1644046774272
+    m_Localized: Shotgun with bullets spreading in all directions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1655761465344
+    m_Localized: "Sniper rifle with high range and accuracy\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1679849353216
+    m_Localized: "Boxer that vow revenge on gang that killed his fianc\xE9e\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1717937827840
+    m_Localized: "Special forces soldiers joining Haesung to take revenge on the
+      gang that killed her best friend\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1748501721088
+    m_Localized: "Man who decides to take revenge on the gang that caused childhood
+      trauma and resulted in the loss of the director of the orphanage\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825978904576
+    m_Localized: "Low-level gang member\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1840507973632
+    m_Localized: "The gang's enforcer\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1850574303232
+    m_Localized: "Right-hand man in the gang\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861009731584
+    m_Localized: Chief of the Korean drug market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1942916100096
+    m_Localized: Manager of the store in the gang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1970057441280
+    m_Localized: "Unlicensed doctor who cures drug addiction\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018111582208
+    m_Localized: Increase max health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2042740535296
+    m_Localized: As health decreases, attack damage increases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2060352417792
+    m_Localized: Attack damage increases with consecutive hits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2106728837120
+    m_Localized: Increase bullet size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146956406784
+    m_Localized: Bullets pass through enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2167424610304
+    m_Localized: Excution of enemies within a certain health range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2406160199680
+    m_Localized: "Attack damage increases with distance\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2491623337984
+    m_Localized: Inflicts bleeding on enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511420452864
+    m_Localized: Bullets explode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2622485622784
+    m_Localized: Increases speed after roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653892571136
+    m_Localized: Avoid enemy attacks with a certain probability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2671441539072
+    m_Localized: Enemies seem to be moving slowly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2725732610048
+    m_Localized: One shot two bullets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757508657152
+    m_Localized: One more weapon slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2775728713728
+    m_Localized: Quick reload & Double magazine capacity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2820188336128
+    m_Localized: Increase store cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3187672281088
+    m_Localized: "Failure using bandage with a certain probability\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119858774016
+    m_Localized: Failure using grenade with a certain probability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2842200043520
+    m_Localized: The drug gauge doubles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211261046784
+    m_Localized: Enemies avoid attacks with a certain probability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226331181056
+    m_Localized: Unable to recognize the color of drugs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3279577870336
+    m_Localized: Can not roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300046073856
+    m_Localized: Cannot acquire or use items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311316168704
+    m_Localized: Enemy attacks become more lethal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374633381888
+    m_Localized: Completely addicted to drugs
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

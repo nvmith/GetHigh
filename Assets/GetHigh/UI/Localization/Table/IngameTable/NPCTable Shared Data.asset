@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: NPCTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NPCTable
+  m_TableCollectionNameGuidString: e84ab055aac2c064d88bed8e727734f5
+  m_Entries:
+  - m_Id: 21963894784
+    m_Key: firstText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14896035426304
+    m_Key: maxGuageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976687697920
+    m_Key: acceptText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15070539444224
+    m_Key: refuseText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5263757483837227010
+  references:
+    version: 2
+    RefIds:
+    - rid: 5263757483837227010
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1727352624419

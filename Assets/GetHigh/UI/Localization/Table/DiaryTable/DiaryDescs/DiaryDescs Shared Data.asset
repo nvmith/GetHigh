@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DiaryDescs Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DiaryDescs
+  m_TableCollectionNameGuidString: 25de901211e5a36468058e278d02ff33
+  m_Entries:
+  - m_Id: 374070243328
+    m_Key: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713590763520
+    m_Key: RedDrug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763351986176
+    m_Key: OrangeDrug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 784394809344
+    m_Key: YellowDrug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791504154624
+    m_Key: GreenDrug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 825494794240
+    m_Key: BlueDrug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 838081900544
+    m_Key: BlackDrug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1028700434432
+    m_Key: Band
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1058966532096
+    m_Key: Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1072589631488
+    m_Key: BulletProof
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1080609140736
+    m_Key: Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089232629760
+    m_Key: Money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114293596160
+    m_Key: MainMagazine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1125936984064
+    m_Key: SubMagazine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457521881088
+    m_Key: Sashimi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1490203897856
+    m_Key: Combat_Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1502417711104
+    m_Key: Fist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1564426301440
+    m_Key: Desert_Eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1587071348736
+    m_Key: Anaconda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1614149775360
+    m_Key: AK47
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1644046774272
+    m_Key: M870
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1655761465344
+    m_Key: AWP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1679849353216
+    m_Key: Haeseong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1717937827840
+    m_Key: Eunha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1748501721088
+    m_Key: Kuiper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1825978904576
+    m_Key: Strike_Team1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1840507973632
+    m_Key: Mikazuki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1850574303232
+    m_Key: Deimos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861009731584
+    m_Key: FullMoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1942916100096
+    m_Key: Merchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1970057441280
+    m_Key: Unlicensed_Doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2018111582208
+    m_Key: Extra_Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2042740535296
+    m_Key: Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2060352417792
+    m_Key: Rage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2106728837120
+    m_Key: Expanded_Bullet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2146956406784
+    m_Key: Piercing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2167424610304
+    m_Key: Execution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2406160199680
+    m_Key: Sniper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2491623337984
+    m_Key: Bleeding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511420452864
+    m_Key: Explosion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2622485622784
+    m_Key: Dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653892571136
+    m_Key: Evasion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2671441539072
+    m_Key: Time_Dilation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2725732610048
+    m_Key: Burst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757508657152
+    m_Key: Extra_Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2775728713728
+    m_Key: Weapon_Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2820188336128
+    m_Key: Merchant_Hostility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3187672281088
+    m_Key: Drug_Addiction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3119858774016
+    m_Key: Dud_Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2842200043520
+    m_Key: Contaminated_Bandage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3211261046784
+    m_Key: Missed_Shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3226331181056
+    m_Key: Drug_Induced_Colorblindness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3279577870336
+    m_Key: Roll_Restriction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3300046073856
+    m_Key: Excess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311316168704
+    m_Key: Weakness_Exposure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3374633381888
+    m_Key: Mirage
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9014976672168411143
+  references:
+    version: 2
+    RefIds:
+    - rid: 9014976672168411143
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1724566672309
