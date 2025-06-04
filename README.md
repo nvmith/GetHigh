@@ -157,7 +157,7 @@ public class ShotGun : Gun {
 
 ```bash
 1. 레포지토리 클론 또는 압축 해제
-2. Build/DrugAndGun.exe 실행
+2. Build/Get High.exe 실행
 ```
 
 ---
